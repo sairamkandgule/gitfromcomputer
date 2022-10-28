@@ -1,0 +1,24 @@
+.rect
+{
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    height: 15.7em;
+    width: 20em;
+    -webkit-animation: alternate;
+    
+}
+.imagesize
+{
+    height: 5em;
+    width: 5em;
+}
+.r1c1
+{
+    object-position: 60% 80%;
+}
+.btn{
+    position: relative;
+    top: 2em;
+    
+}
